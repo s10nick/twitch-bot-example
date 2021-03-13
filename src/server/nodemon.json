@@ -1,0 +1,8 @@
+{
+  "env": {
+    "NODE_ENV": "development",
+    "PORT": "80",
+    "MONGO_URL": "mongodb://sbsbot:littlebutStrongpaSS1920@ds135335.mlab.com:35335/sdsbot",
+    "BOT_OAUTH": "oauth:wg799mpyr4iuuekng1oxacjiqwbs8h"
+  }
+}
